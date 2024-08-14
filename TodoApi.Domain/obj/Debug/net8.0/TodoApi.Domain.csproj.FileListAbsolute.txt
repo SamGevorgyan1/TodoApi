@@ -1,0 +1,11 @@
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/bin/Debug/net8.0/TodoApi.Domain.deps.json
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/bin/Debug/net8.0/TodoApi.Domain.dll
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/bin/Debug/net8.0/TodoApi.Domain.pdb
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.AssemblyInfoInputs.cache
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.AssemblyInfo.cs
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.csproj.CoreCompileInputs.cache
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.dll
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/refint/TodoApi.Domain.dll
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/TodoApi.Domain.pdb
+/Users/samvel/Documents/C# Project/TodoApi/TodoApi.Domain/obj/Debug/net8.0/ref/TodoApi.Domain.dll
